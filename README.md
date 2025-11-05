@@ -2,6 +2,8 @@
 
 This repository contains the code for a recommendation system that suggests music playlists based on the themes of books. The project uses advanced machine learning techniques, including BERT embeddings and FAISS, to provide accurate and meaningful song recommendations.  
 
+NOTE: The free trail on the HDFS servers ran out, so the code has been modified to run on google colab using colab servers instead
+
 
 ## **Dataset Description**  
 
